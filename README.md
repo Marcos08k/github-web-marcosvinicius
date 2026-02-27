@@ -1,4 +1,4 @@
-# atividade pratica github web
+# MARKDOWN AULA 1
 
 ## 📌 Sobre
 Este projeto foi criado para apresentar informações sobre mim e praticar o uso do GitHub.
